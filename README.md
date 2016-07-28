@@ -4,5 +4,5 @@ Functional programming in Haskell for the subject "Programación Declarativa" in
 - Authors: 
 Álvaro Rubio Reseco & Luis Miguel Barbero Juvera
 
-- Description 
+- Description//
 A Haskell card game inspired by Blackjack with command-line interface.
